@@ -18,7 +18,7 @@ ODGOVORI NA VPRAŠANJA:
 2.f) Poleg pina se izpiše ADC_IN5.
      To je pin PA0.
      
-2.g)![Slika vezave]()
+2.g)![Slika vezave](https://raw.githubusercontent.com/bozoslapy/Vaja1-ADC-single-conversion-Nucle/ce487797f4007e2db037bb41d3f2649485683608/IMG_0160.jpeg)
 
 2.i) Pretvorbe in območja vrednosti:
      a) 6-bit  od 0 do 63 
