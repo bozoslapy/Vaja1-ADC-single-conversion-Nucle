@@ -26,6 +26,6 @@ ODGOVORI NA VPRAŠANJA:
      c) 12-bit od 0 do 4095
      d) 16-bit od 0 do 65535
 
-![Slika potenciometra]()
-![Slika mikroprocesorja]()
-![Posnetek delovanja]()
+![Slika potenciometra](https://raw.githubusercontent.com/bozoslapy/Vaja1-ADC-single-conversion-Nucle/main/IMG_0168.jpg)
+![Slika mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja1-ADC-single-conversion-Nucle/main/PinOut%201.PNG)
+![Posnetek delovanja](https://github.com/bozoslapy/Vaja1-ADC-single-conversion-Nucle/blob/main/VID_20221024_130626.mp4)
