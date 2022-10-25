@@ -25,3 +25,7 @@ ODGOVORI NA VPRAŠANJA:
      b) 10-bit od 0 do 1023
      c) 12-bit od 0 do 4095
      d) 16-bit od 0 do 65535
+
+![Slika potenciometra]()
+![Slika mikroprocesorja]()
+![Posnetek delovanja]()
